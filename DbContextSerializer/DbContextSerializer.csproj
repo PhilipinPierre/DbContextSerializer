@@ -12,6 +12,7 @@
     <PackageProjectUrl>https://github.com/PhilipinPierre/DbContextSerializer</PackageProjectUrl>
     <RepositoryUrl>https://github.com/PhilipinPierre/DbContextSerializer</RepositoryUrl>
     <PackageReleaseNotes>First Release, Serialize and deserialize entire DbContext into json files</PackageReleaseNotes>
+    <PackageTags>DbContext;EntityFrameworkCore; EntityFramework Core; Json serializer; json; serializer</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>

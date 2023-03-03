@@ -4,6 +4,14 @@
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <GenerateDocumentationFile>True</GenerateDocumentationFile>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>DbContextSerializer</Title>
+    <Authors>Pierre Philipin</Authors>
+    <Company />
+    <PackageProjectUrl>https://github.com/PhilipinPierre/DbContextSerializer</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/PhilipinPierre/DbContextSerializer</RepositoryUrl>
+    <PackageReleaseNotes>First Release, Serialize and deserialize entire DbContext into json files</PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>
